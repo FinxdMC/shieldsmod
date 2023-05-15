@@ -16,10 +16,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> WOODEN_SHIELD = ITEMS.register("wooden_shield", () -> new WoodenShieldItem((new Item.Properties()).durability(55).tab(CreativeModeTab.TAB_COMBAT)));
     public static final RegistryObject<Item> GOLDEN_SHIELD = ITEMS.register("golden_shield", () -> new GoldenShieldItem((new Item.Properties()).durability(77).tab(CreativeModeTab.TAB_COMBAT)));
-    public static final RegistryObject<Item> COPPER_SHIELD = ITEMS.register("copper_shield", () -> new CopperShieldItem((new Item.Properties()).durability(115).tab(CreativeModeTab.TAB_COMBAT)));
-    public static final RegistryObject<Item> IRON_SHIELD = ITEMS.register("iron_shield", () -> new IronShieldItem((new Item.Properties()).durability(165).tab(CreativeModeTab.TAB_COMBAT)));
-    public static final RegistryObject<Item> DIAMOND_SHIELD = ITEMS.register("diamond_shield", () -> new DiamondShieldItem((new Item.Properties()).durability(363).tab(CreativeModeTab.TAB_COMBAT)));
-    public static final RegistryObject<Item> NETHERITE_SHIELD = ITEMS.register("netherite_shield", () -> new NetheriteShieldItem((new Item.Properties()).durability(407).fireResistant().tab(CreativeModeTab.TAB_COMBAT)));
+    public static final RegistryObject<Item> COPPER_SHIELD = ITEMS.register("copper_shield", () -> new CopperShieldItem((new Item.Properties()).durability(125).tab(CreativeModeTab.TAB_COMBAT)));
+    public static final RegistryObject<Item> IRON_SHIELD = ITEMS.register("iron_shield", () -> new IronShieldItem((new Item.Properties()).durability(336).tab(CreativeModeTab.TAB_COMBAT)));
+    public static final RegistryObject<Item> DIAMOND_SHIELD = ITEMS.register("diamond_shield", () -> new DiamondShieldItem((new Item.Properties()).durability(563).tab(CreativeModeTab.TAB_COMBAT)));
+    public static final RegistryObject<Item> NETHERITE_SHIELD = ITEMS.register("netherite_shield", () -> new NetheriteShieldItem((new Item.Properties()).durability(637).fireResistant().tab(CreativeModeTab.TAB_COMBAT)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
