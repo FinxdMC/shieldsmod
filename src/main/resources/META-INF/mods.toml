@@ -21,7 +21,7 @@ modId="shieldsmod" #mandatory
 # see the associated build.gradle script for how to populate this completely automatically during a build
 version='1.19.2-1.2' #mandatory
  # A display name for the mod
-displayName="Shields Mod" #mandatory
+displayName="Fin's Extra Shields" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
