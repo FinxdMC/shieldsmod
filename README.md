@@ -9,3 +9,6 @@ A: I will only support versions above 1.19.2.
 
 ### Q: Can I use the assets/code in my mod?
 A: You can view and use the source code, but not the textures.
+
+### Q: Can I use this in my modpack? 
+A: You can use it in your modpacks, as long as you don't host the mod in other websites, and only use download links from Curseforge/Modrinth.
