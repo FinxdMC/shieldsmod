@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extrashields:wooden_shield",
+    "extrashields:copper_shield",
+    "extrashields:golden_shield",
+    "extrashields:iron_shield",
+    "extrashields:diamond_shield",
+    "extrashields:netherite_shield"
+  ]
+}
